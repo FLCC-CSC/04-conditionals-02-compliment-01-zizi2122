@@ -1,8 +1,8 @@
 # FILE NAME - compliment_01.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: zahra romain
+# DATE: 4-2-2026
+# BRIEF DESCRIPTION:printing compliments  
 
 
 
@@ -14,7 +14,14 @@
 
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
+answer = input("Would you like a compliment? ")
 
+if answer == "yes":
+    print("You have wonderful eyes!")
+else:
+    print("No compliment for you!")
+
+print("Thank you for participating!")
 
 
 
@@ -67,12 +74,12 @@ Thank you for playing.
 
 1. On a scale of 1 to 10 (where 10 is the hardest), how would you rate this lab?
 
-
+5
 
 
 2. What was the hardest part of this lab?
 
-
+getting the code to work 
 
 
 
